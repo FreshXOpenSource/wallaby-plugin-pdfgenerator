@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(name='wallaby-plugin-pdfgenerator',
-      version='0.1.17',
+      version='0.1.18',
       url='http://freshx.de/wallaby/plugins/pdfgenerator',
       author='FreshX GbR',
       author_email='wallaby@freshx.de',
